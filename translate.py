@@ -30,7 +30,7 @@
             translating = False
 
     if __name__ == "__main__":
-      input_po_file = "input.po"  # Thay tên file .po của bạn
+      input_po_file = "zh-Hans.po"  # Thay tên file .po của bạn
       output_txt_file = "output.txt"  
       translate_po_file(input_po_file, output_txt_file)
     ```
